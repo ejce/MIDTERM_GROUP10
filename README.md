@@ -1,7 +1,35 @@
 # MIDTERM_GROUP10
-# DASHBOARD
 
-# TEXT FUNCTION
+# PART 1
+
+# DASHBOARD
+ 
+Group 10 food nutrition dashboard is a sophisticated tool created to present a holistic summary of the nutritional aspects of foods and meals. It provides a user-friendly interface for accessing critical information about calories, total fats, sugars protein, and other essential elements found in different food items. This digital platform enables individuals to make educated dietary decisions, monitor their nutritional intake, and uphold a well-balanced and healthy way of life. Featuring interactive functions and informative graphics, a food nutrition dashboard serves as an invaluable asset for individuals striving to optimize their diets and achieve their nutritional objectives.
+
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/8db3d27f-7a72-4ab1-9fe5-a2b3b4973ef2)
+
+
+These are the inclusion of the Group 10 comprehensive nutrition dashboard, the ultimate solution for closely monitoring your dietary choices and making well-informed decisions. This dynamic dashboard combines a range of vital variables to offer a holistic perspective on your nutrition. Keeping track on the total product count, aggregating calorie intake, and summing up total fat, sugars, and proteins are shown below:
+
+# Total Count of Product
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/b4bda8f5-85b1-4861-9992-687dd0b50978)
+
+# Sum of Calories
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/4fecd185-6727-42e1-872a-6fc9a99b84a0)
+
+# Sum of Total Fat
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/4496c3e5-f056-4155-b54b-ad690768412d)
+
+# Total Sum of Sugars
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/34fd3e9a-7ffb-48d8-baad-ca516b60b9b6)
+
+# Total Sum of Proteins
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/76577f2f-1f6e-46e0-a553-df5f6be9c6df)
+
+# PART 2
+# EXCEL FUNCTIONS
+
+# Text Function
 
 
 The TEXT function in Excel helps you change how information looks on the screen without changing the real data. People often use it to make reports and show data in a way that's easy for others to read.
@@ -47,7 +75,7 @@ In Excel, the RIGHT function is like a tool that helps you grab a certain number
 
 
 
-# MATH FUNCTION
+# Math Function
 
 
 In Excel, you can do math and calculations using pre-made tools like functions and symbols. There are many more options available for different types of math tasks, including finance, statistics, and engineering. You can explore these to fit your specific needs.
@@ -92,7 +120,7 @@ Finds the whole number part of a division result.
 
 
 
-# LOGICAL FUNCTION
+# Logical Function
 
 
 Logical functions in Microsoft Excel are valuable tools for making decisions and conducting calculations that depend on specific conditions. They are highly beneficial for crafting dynamic spreadsheets and performing computations based on a variety of criteria. These functions can be applied individually or combined in nested ways to tackle more intricate scenarios effectively.
@@ -137,7 +165,7 @@ IFERROR manages errors in Excel formulas by replacing them with a designated val
 
 
 
-# INFORMATION FUNCTION
+# Information Function
 
 
 These functions play a crucial role in Excel for tasks like validating data, applying conditional formatting, and setting up logical tests in spreadsheets. They enable users to make informed choices and execute calculations based on particular data conditions and attributes within their worksheets.
@@ -182,7 +210,7 @@ ISLOGICAL checks if the provided value is a logical value, which means it's eith
 
 
 
-# DATE & TIME FUNCTION
+# Date & Time Function
 
 
 Excel provides a range of functions designed for working with dates and times, enabling you to carry out tasks like computing date intervals, extracting specific date elements, and customizing date and time formats. These functions are particularly handy for managing and analyzing date-related data.
@@ -220,9 +248,56 @@ The WEEKNUM function determines which week a given date belongs to, adhering to 
 
 
 
-WEEKDAY
+DAYS
 
-The WEEKDAY function reveals the day of the week corresponding to a specified date.
+To calculate the number of days between two dates in Excel.
 
 ![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/b392c404-2e4c-4b70-b7ea-b6fede699b16)
 
+
+
+# Lookup Function
+In Excel, a "lookup function" is a tool that helps you find something specific in a table of information and get the related details. These functions are handy for finding data, making matches, and extracting info from big lists.
+
+These are the data used to execute the Lookup Function as shown below: 
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/a69d24b6-043d-48ef-a9c2-b80a4fe34d2d)
+
+LOOKUP
+
+The LOOKUP function in Excel checks for a value in one column or row and then gives you the corresponding value from the same position in another column or row.
+
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/65e5306d-149f-4e39-aadf-ea371b709a95)
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/5db0d2df-e438-452e-9602-bceb4623ace9)
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/db453fb3-e58f-4c96-9246-a8b02fd11bb2)
+
+
+INDIRECT ADDRESS
+
+In Excel, the "INDIRECT" function lets you transform a text string into a cell reference. It's handy when you want to refer to a cell or a group of cells indirectly, depending on what's written in another cell. The function works by taking a text string as input and then giving you the cell reference indicated by that text.
+
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/deb34023-d11c-4e6f-9528-e2593ccf0860)
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/67f745f7-2514-429b-abac-ef1dcd87109f)
+
+
+VLOOKUP
+
+VLOOKUP, which stands for "Vertical Lookup," is an Excel function employed to find a value in the first column of a table or range and then fetch a related value from a designated column within the same row. It's especially handy for locating data within well-organized tables.
+
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/146ff20e-ad73-4c7d-b792-217b23e82106)
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/3f6134cd-0e98-459e-8c3c-f9f278ba9227)
+
+MATCH
+
+In Excel, the "MATCH" function serves the purpose of determining where a particular value is located within a range of cells. It provides the position or number of the row or column that corresponds to the item you're seeking.
+
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/b6159ee8-2de4-4118-9012-b0a59c15cc1d)
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/997d2c78-b99e-404e-b2b4-3087be7bb003)
+
+# GROUP 10 MEMBERS:
+# Carandang, Harley I.
+# Chavez, Marlo Jr. B.
+# Endaya, Elvin Jhun C.
+
+# REFERENCE
+The dataset entitled "FAST FOOD NUTRITION" that the group members used is from JOAKIM ARVIDSSON all credit to him. 
+https://www.kaggle.com/datasets/joebeachcapital/fast-food
