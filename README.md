@@ -129,7 +129,7 @@ AND
 
 AND function in Excel only returns TRUE if all given conditions are met; otherwise, it returns FALSE.
 
-![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/5fbdd63e-d55e-4f5f-9289-ded6acf7f860)
+![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/dba5cb3b-69c8-4f93-b344-f424f4bd1703)
 
 
 
@@ -291,7 +291,6 @@ MATCH
 In Excel, the "MATCH" function serves the purpose of determining where a particular value is located within a range of cells. It provides the position or number of the row or column that corresponds to the item you're seeking.
 
 ![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/b6159ee8-2de4-4118-9012-b0a59c15cc1d)
-![image](https://github.com/harleybelz/MIDTERM_GROUP10/assets/144197127/997d2c78-b99e-404e-b2b4-3087be7bb003)
 
 # GROUP 10 MEMBERS:
 # Carandang, Harley I.
@@ -299,5 +298,5 @@ In Excel, the "MATCH" function serves the purpose of determining where a particu
 # Endaya, Elvin Jhun C.
 
 # REFERENCE
-The dataset entitled "FAST FOOD NUTRITION" that the group members used is from JOAKIM ARVIDSSON all credit to him. 
+The dataset entitled "FAST FOOD NUTRITION" that the group members used is from JOAKIM ARVIDSSON all credits to him. 
 https://www.kaggle.com/datasets/joebeachcapital/fast-food
